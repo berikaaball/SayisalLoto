@@ -1,0 +1,12 @@
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SayısalLoto\SayısalLoto\bin\Debug\SayısalLoto.exe.config
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SayısalLoto\SayısalLoto\bin\Debug\SayısalLoto.exe
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SayısalLoto\SayısalLoto\bin\Debug\SayısalLoto.pdb
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SayısalLoto\SayısalLoto\bin\Debug\SayısalLoto.xml
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.vbproj.AssemblyReference.cache
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.Form1.resources
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.Resources.resources
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.vbproj.GenerateResource.cache
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.vbproj.CoreCompileInputs.cache
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.exe
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.xml
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\SayısalLoto\SayısalLoto\obj\Debug\SayısalLoto.pdb
